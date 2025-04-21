@@ -33,4 +33,4 @@ It is a console-based application designed for learning purposes.
 
 1. **Clone the repository or download the file**
    ```bash
-   git clone https://github.com/your-username/ATM-Simulation.git
+   git clone https://github.com/Codewithmohitgarg/ATM-Simulation.git
